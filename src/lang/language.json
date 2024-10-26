@@ -1,0 +1,47 @@
+{
+    "en": {
+        "translation": {
+            "contactUs": "Contact Us",
+            "sayHello": "Say Hello! We’re always here to help.",
+            "interestedInLearning": "Interested in learning more about SmartMoving? Give us a call or send an email and one of our team members will be happy to assist you.",
+            "callUs": "CALL US",
+            "emailUs": "Email Us",
+            "headquarters": "HEADQUARTERS",
+            "signUp": "Sign up for your free 14 day trial now!",
+            "getStarted": "Get Started for free",
+            "home": "HOME",
+            "card": "CARD",
+            "products": "PRODUCTS"
+        }
+    },
+    "ru": {
+        "translation": {
+            "contactUs": "Свяжитесь с нами",
+            "sayHello": "Скажите привет! Мы всегда готовы помочь.",
+            "interestedInLearning": "Хотите узнать больше о SmartMoving? Позвоните нам или отправьте письмо, и один из наших сотрудников будет рад помочь вам.",
+            "callUs": "ПОЗВОНИТЕ НАМ",
+            "emailUs": "Напишите нам",
+            "headquarters": "ШТАБ-КВАРТИРА",
+            "signUp": "Подпишитесь на бесплатный 14-дневный пробный период прямо сейчас!",
+            "getStarted": "Начать бесплатно",
+            "home": "ГЛАВНАЯ",
+            "card": "КАРТА",
+            "products": "ПРОДУКТЫ"
+        }
+    },
+    "uz": {
+        "translation": {
+            "contactUs": "Biz bilan bog'laning",
+            "sayHello": "Salom ayting! Biz har doim yordam berishga tayyormiz.",
+            "interestedInLearning": "SmartMoving haqida ko'proq bilishni xohlaysizmi? Bizga qo'ng'iroq qiling yoki elektron pochta orqali xabar yuboring va jamoamizdan biri sizga yordam berishga tayyor.",
+            "callUs": "Bizga qo'ng'iroq qiling",
+            "emailUs": "Bizga Email yuboring",
+            "headquarters": "Bosh qarorgoh",
+            "signUp": "Bepul 14 kunlik sinov uchun hozir ro'yxatdan o'ting!",
+            "getStarted": "Bepul boshlash",
+            "home": "BOSH SAHIFA",
+            "card": "SAVATCHA",
+            "products": "MAHSULOTLAR"
+        }
+    }
+}
