@@ -31,7 +31,7 @@ function Card() {
         <div className='border-2 bg-white'>
             <div className='flex flex-col max-w-96 gap-5 mx-auto items-center mt-40 mb-40'>
                 <input ref={nameRef} type="text" placeholder='Enter name...' className='input input-bordered input-primary w-full max-w-xs' />
-                <input ref={priceRef} type="text" placeholder='Enter price...' className='input input-bordered input-primary w-full max-w-xs' />
+                <input ref={priceRef} type="number" placeholder='Enter price...' className='input input-bordered input-primary w-full max-w-xs' />
                 <select ref={countRef} className='select select-primary w-full max-w-xs'>
                     <option value="1">1</option>
                     <option value="2">2</option>
